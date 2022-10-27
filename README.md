@@ -1,4 +1,5 @@
-# Financial-statement-Analysis-Using-python
+# Financial statement Analysis Using python (Novo Nordisk A/S (NVO))
+
 Steps :
 
 1. Scrap the financial data from yahoo finance
